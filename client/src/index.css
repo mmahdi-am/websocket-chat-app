@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "AIranianSans";
+    src: local("AIranianSans"),
+     url("./fonts/AIranianSans.ttf") format("truetype");
+    font-weight: normal;
+   }
+
+
+   *{
+    font-family:  'AIranianSans';
+   }

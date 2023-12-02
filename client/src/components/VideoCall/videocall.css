@@ -1,0 +1,16 @@
+#videoContainer  {
+
+    
+    position: relative;
+   
+}
+
+#screenShareContainer video{
+    background: rgb(0,0,0);
+
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(55,50,50,1) 100%);
+}
+
+#inputvideoid{
+    outline: none;
+}

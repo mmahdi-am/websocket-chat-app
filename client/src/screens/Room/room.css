@@ -1,0 +1,49 @@
+@media only screen and (max-width: 800px) {
+#videoContainer video{
+    width: 100% !important;
+}
+  }
+
+  body{
+    padding-left:0!important ;
+  }
+
+
+
+  .room-header{
+    background-color : rgb(105, 105, 105);
+    display: flex;
+    padding: 1rem 1rem;
+    justify-content: space-between;
+  }
+  .room-logo{
+    width: 34px;
+    height: 34px;
+  }
+
+  .bg-dark-custom{
+    background-color: #14213d;
+  }
+
+  .bg-dark-custom-2{
+    background-color:   #14213d;
+  }
+
+
+  .pallete-1{
+    background-color:   #14213d;
+  }
+  .pallete-2{
+    background-color: #fca311;
+  }
+  .pallete-3{
+    background-color: #e5e5e5;
+  }
+
+
+
+
+
+.aparat-result-single-item:hover{
+background-color: rgba(105, 105, 105, 0.356);
+}

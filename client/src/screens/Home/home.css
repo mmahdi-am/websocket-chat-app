@@ -1,0 +1,67 @@
+.home_fluid_container {
+    background-image: url("../../bg.jpg");
+    
+}
+
+.heading-box {
+    align-items: center;
+    background-color:#343230;
+    border-color: #343230;
+    border-radius:    8px;
+    border-style:  solid;
+    border-width:   1px;
+    color:    #e5e7eb;
+    display:    flex;
+    flex-direction:   column;
+    justify-content:      center;
+    line-height:     24px;
+    
+    padding:    24px; 
+}
+
+.how-to-box{
+    background-color:rgba(255, 255, 255, 0.774);
+border-radius:8px;
+color:#e5e7eb;
+line-height:24px;
+
+padding:32px;
+}
+
+.how_to_box h5{
+    color:#111827;
+font-size:24px;
+font-weight:700;
+letter-spacing:-0.6px;
+line-height:32px;
+}
+.first-how{
+    color:#111827;
+}
+.first-how li{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+ul {
+    list-style: none;
+    
+  }
+  
+  .how-to-box  ul li:before {
+    content: '✓';
+  }
+
+
+
+  .how-to-level{
+    background-color:
+#343230;
+border-radius:6px;
+box-shadow:#000000 0px 0px 0px 0px,;
+color:#ffffff;
+display:flex;
+font-family:ui-sans-serif;
+padding: 1rem;
+margin:32px 0px 0px;
+  }
